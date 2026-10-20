@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Classik Bit** · Team ID `VTU-QFF-HC-0033` · Tier `Both`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Classik Bit)
+[⬆ Back to Top](#classik-bit)
 
 </div>
